@@ -1,3 +1,3 @@
-def square_array(array)
-  # your code here
-end
+while arr[counter] do
+ 
+  end
